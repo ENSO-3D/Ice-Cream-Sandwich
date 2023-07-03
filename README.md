@@ -21,3 +21,8 @@ ICS.200 is fully enclosed with panels on all sides.
 
 A prototype is built and being tested:
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200prototype.jpg)
+
+This project is licensed as
+![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
+
+https://creativecommons.org/licenses/by-nc/4.0/
