@@ -3,7 +3,7 @@ A sweet CoreXY platform
 
 **!THIS PROEJECT HAS THE CURRENT STATUS: WORK IN PROGRESS!**
 
- ![Small Image of ICS.200](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200 v110.jpg)
+ ![Small Image of ICS.200](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200v110.jpg)
  
  ![Small Image of ICS.200](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200.3.jpg)
 
