@@ -23,6 +23,7 @@ ICS.200 is fully enclosed with panels on all sides.
 
 A prototype is built and being tested:
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200prototype.jpg)
+![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS200Prototypeprinting.gif)
 
 Lasercutting sources:
 
