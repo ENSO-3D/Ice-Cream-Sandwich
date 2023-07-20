@@ -1,7 +1,8 @@
 # ICS.200 **(WIP)**
-A sweet CoreXY platform
 
 **!THIS PROJECT HAS THE CURRENT STATUS: WORK IN PROGRESS!**
+
+A sweet CoreXY platform.
 
  ![Small Image of ICS.200](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200v133.png)
  
