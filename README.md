@@ -22,15 +22,11 @@ The bed is 6mm cast aluminum lifted via 6mm 2GT belts by three 5:1 belt reduced 
 
 ICS.200 is fully enclosed with panels on all sides.
 
+The project is being discussed on the CroXY Discord server: https://discord.gg/SeYrseguuf
+
 A prototype is built and being tested:
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200prototype.jpg)
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS200Prototypeprinting.gif)
-
-Lasercutting sources:
-
-USA: https://sendcutsend.com/
-EU: https://www.laserboost.com/
-World: https://www.pcbway.com/
 
 This project is licensed as
 ![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
