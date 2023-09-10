@@ -29,7 +29,7 @@ The sister printer Quattro Gelato is found here: https://github.com/CroXY3D/Quat
 The idea of using pins with sandwich for the Maxwell bed coupling comes from @whoppingochard:
 https://github.com/tanaes/whopping_Voron_mods/tree/main/kinematic_bed
 
-A prototype is built and being tested:
+A prototype was built based on PCB plates, however it is no being redone fith updates and changes:
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200prototype.jpg)
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS200Prototypeprinting.gif)
 
