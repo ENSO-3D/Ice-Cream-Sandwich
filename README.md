@@ -4,7 +4,7 @@
 
 A sweet CoreXY platform.
 
- ![Small Image of ICS.200](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200v209.png)
+ ![Small Image of ICS.200](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS200v250.png)
  
  ![Small Image of ICS.200](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200.3.jpg)
 
