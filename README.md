@@ -20,7 +20,7 @@
 
 ## :bulb:ICS.200 3D Printer
 
-ICS.200 is a fully enclosed CoreXY 3D printer designed using The Ice Cream Factory's innovative Ice Cream Sandwich build technique. This printer is built around MGN9H rails with a length of 220mm, offering a generous build area of approximately 160x160x160mm. One of the standout features of the ICS.200 is its scalability, allowing users to easily adjust the size according to their specific needs.
+ICS.200 is a fully enclosed CoreXY 3D printer designed using The Ice Cream Factory's innovative Ice Cream Sandwich build technique. This printer is built around MGN9H rails with a length of 220mm, offering a generous build area of approximately 165x165x165mm. One of the standout features of the ICS.200 is its scalability, allowing users to easily adjust the size according to their specific needs.
 
 ## Ice Cream Sandwich Build Technique
 
