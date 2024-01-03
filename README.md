@@ -17,27 +17,36 @@
 
 </div>
 
-## :bulb: About
 
-ICS.200 is a fully enclosed CoreXY printer using The Ice Cream Factory's Ice Cream Sandwich build technique. The ICS.200 is built around MGN9H rails that are 220mm long with a build area of around 160x160x160mm, the design allows for it to be scaled easily. 
+## :bulb:ICS.200 3D Printer
 
-Ice Cream Sandwiches are parts made of laser cut aluminum (typically 2-3mm) sandwiching a central printed plastic core.  This is similar in construction to ACM panels such as DiBond which have an incredible strength to weight ration.  Nearly all load is carried by the much stiffer aluminum panels (75x as stiff as plastic). The plastic core is merely to space the panels apart. Additionally for high load situations aluminum spacers also separate the plates. It should be possible to have the panels made by PCB houses using 2mm aluminum PCBs for about 20% the cost of laser cutting, making the construction technique quite inexpensive.
+ICS.200 is a fully enclosed CoreXY 3D printer designed using The Ice Cream Factory's innovative Ice Cream Sandwich build technique. This printer is built around MGN9H rails with a length of 220mm, offering a generous build area of approximately 160x160x160mm. One of the standout features of the ICS.200 is its scalability, allowing users to easily adjust the size according to their specific needs.
 
-It utilises 220mm MGN9H rails all around and 9mm 2GT belts for X/Y.
-Electronics are mostly placed in the back, and AC parts are placed in the bottom.
-Toolhead movement is provided by two Nema17 stepper motors, either long shaft versions or normal length with couplings.
- 
-Part cooling is done via CPAP.
+## Ice Cream Sandwich Build Technique
 
-The bed is 6mm cast aluminum lifted via 6mm 2GT belts by three 5:1 belt reduced drives or direct drive. It features proper Maxwell kinematic joints to allow for bed expansion while constraining other motion and to allow automatic bed leveling. Bed levelling and mesh probing is done with a probe.
+The core construction of Ice Cream Sandwiches involves laser-cut aluminum panels (typically 2-3mm thick) sandwiching a central 3D-printed plastic core. This design, similar to ACM panels like DiBond, delivers an exceptional strength-to-weight ratio. The load is primarily borne by the highly rigid aluminum panels, which are 75 times stiffer than plastic. For added strength in high-load scenarios, aluminum spacers separate the panels. The cost-effective nature of this construction technique makes it feasible to produce panels through PCB houses, utilizing 2mm aluminum PCBs at approximately 20% of the cost of laser cutting.
 
-ICS.200 is fully enclosed with panels on all sides.
+## Key Features:
 
-The project is being discussed on the CroXY Discord server: https://discord.gg/SeYrseguuf
+- Utilizes 220mm MGN9H rails and 9mm 2GT belts for X/Y movements.
+- Electronics are primarily located in the back, while AC components are housed in the bottom section.
+- Toolhead movement is facilitated by two Nema17 stepper motors, either long shaft variants or normal length with couplings.
+- Part cooling is achieved using a CPAP blower (Currently a roborock fan).
+- The 6mm cast aluminum bed is raised via 3Z 6mm 2GT belts through three 5:1 belt-reduced drives or direct drive.
+- Features Maxwell kinematic joints for the bed, allowing for expansion while constraining other motions and facilitating automatic bed leveling.
+- Bed leveling and mesh probing are carried out with a dedicated probe like Euclid.
+- Full enclosure with aluminium panels on all sides ensures a controlled printing environment.
 
-The sister printer Quattro Gelato is found here: https://github.com/CroXY3D/Quattro-Gelato
+## Community and Discussion
 
-The prototype is currently being built. 
+Join the conversation and get involved in the development of ICS.200 on the CroXY Discord server: [CroXY Discord Server](https://discord.gg/SeYrseguuf)
+
+Explore the sister printer, Quattro Gelato, at [Quattro Gelato GitHub Repository](https://github.com/CroXY3D/Quattro-Gelato)
+
+## Current Status
+
+The prototype of ICS.200 is currently in the process of being built. Stay tuned for updates and improvements!
+
 
 ## License
 
