@@ -30,7 +30,7 @@ The project is being discussed on the CroXY Discord server: https://discord.gg/S
 
 The sister printer Quattro Gelato is found here: https://github.com/CroXY3D/Quattro-Gelato
 
-A prototype was built based on PCB plates, however it is no being redone fith updates and changes:
+A prototype was built based on PCB plates, however it is now being redone with updates and changes (Check Discord for latest updates):
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200prototype.jpg)
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS200Prototypeprinting.gif)
 
