@@ -1,8 +1,11 @@
-# ICS.200 **(WIP)**
+<div align="center">
+    
+# ICS.200
 
-**!THIS PROJECT HAS THE CURRENT STATUS: WORK IN PROGRESS!**
+:construction: :construction: :construction:
 
-A sweet CoreXY platform.
+**Work in Progress (WIP)**
+
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/ENSO-3D/ICS.200/blob/main/Images/ICS200Panels312.png"> 
@@ -11,6 +14,10 @@ A sweet CoreXY platform.
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/ENSO-3D/ICS.200/blob/main/Images/ICS200Panels32.png"> 
 </p>
+
+</div>
+
+## :bulb: About
 
 ICS.200 is a fully enclosed CoreXY printer using The Ice Cream Factory's Ice Cream Sandwich build technique. The ICS.200 is built around MGN9H rails that are 220mm long with a build area of around 160x160x160mm, the design allows for it to be scaled easily. 
 
