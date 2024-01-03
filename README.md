@@ -41,7 +41,6 @@ A prototype was built based on PCB plates, however it is now being redone with u
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS.200prototype.jpg)
 ![Small Image of ICS.200 Prototype](https://github.com/CORELabs3D/ICS.200/blob/main/Images/ICS200Prototypeprinting.gif)
 
-This project is licensed as:
-![image](https://user-images.githubusercontent.com/37383368/139769027-7267da5b-7f58-499d-96bc-e41d164a3aac.png)
+## License
 
-https://creativecommons.org/licenses/by-nc/4.0/
+This project is licensed under the CC BY-NC 4.0 - see the [LICENSE](./LICENSE) file for details
