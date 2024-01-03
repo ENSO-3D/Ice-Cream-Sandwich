@@ -4,7 +4,7 @@
 
 :construction: :construction: :construction:
 
-**Work in Progress (WIP)**
+**Work in Progress**
 
 
 <p align="center" width="100%">
