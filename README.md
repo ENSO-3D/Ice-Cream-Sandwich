@@ -12,7 +12,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/ENSO-3D/ICS.200/blob/main/Images/ICS200Panels35.gif"> 
+    <img width="100%" src="https://github.com/ENSO-3D/ICS.200/blob/main/Images/ICS200Panels36.gif"> 
 </p>
 
 </div>
@@ -28,11 +28,12 @@ The core construction of Ice Cream Sandwiches involves laser-cut aluminum panels
 
 ## Key Features:
 
-- Utilizes 220mm MGN9H rails and 9mm 2GT belts for X/Y movements.
+- Utilizes 220mm MGN9H rails for X/Y/Z.
+- 9mm 2GT belts for X/Y movements and 6mm belts for Z.
 - Electronics are primarily located in the back, while AC components are housed in the bottom section.
 - Toolhead movement is facilitated by two Nema17 stepper motors, either long shaft variants or normal length with couplings.
 - Part cooling is achieved using a CPAP blower (Currently a roborock fan).
-- The 6mm cast aluminum bed is raised via 3Z 6mm 2GT belts through three 5:1 belt-reduced drives or direct drive.
+- The 6mm cast aluminum bed is raised through 3Z 5:1 belt-reduced drives or direct drive (For smaller printers).
 - Features Maxwell kinematic joints for the bed, allowing for expansion while constraining other motions and facilitating automatic bed leveling.
 - Bed leveling and mesh probing are carried out with a dedicated probe like Euclid.
 - Full enclosure with aluminium panels on all sides ensures a controlled printing environment.
