@@ -7,6 +7,10 @@
 **Work in Progress**
 
 <p align="center" width="100%">
+    <img width="80%" src="https://github.com/ENSO-3D/ICS.200/blob/main/Images/ICS165-panels-front.png"> 
+</p>
+
+<p align="center" width="100%">
     <img width="80%" src="https://github.com/ENSO-3D/ICS.200/blob/main/Images/ICS165-panels-side.png"> 
 </p>
 
